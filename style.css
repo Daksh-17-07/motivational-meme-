@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+#div-tag{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    
+
+}
+h1{
+    text-transform: uppercase;
+    
+}
+#motivational-image{
+    border: 5px solid white;
+}
